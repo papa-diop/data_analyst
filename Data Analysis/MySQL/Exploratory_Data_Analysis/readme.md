@@ -1,6 +1,3 @@
-Il semble que vous souhaitiez documenter un processus d'analyse exploratoire de données (AED) SQL dans votre fichier `readme.md`. Voici comment vous pouvez structurer cela sans les extraits de code :
-
-```markdown
 # Projet d'analyse exploratoire de données avec SQL
 
 Ce projet utilise SQL pour effectuer une analyse exploratoire de données sur un ensemble de données sur les licenciements. Voici les étapes suivies :
@@ -17,4 +14,3 @@ Ce projet utilise SQL pour effectuer une analyse exploratoire de données sur un
 10. Classement des entreprises par année en fonction du total des licenciements, et sélection des cinq premières entreprises pour chaque année.
 
 N'oubliez pas de remplacer les noms de table et de colonne par ceux de votre choix. De plus, ce projet suppose que vous avez déjà installé un système de gestion de base de données SQL, comme MySQL ou PostgreSQL.
-```
