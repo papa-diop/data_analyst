@@ -1,6 +1,6 @@
 # Real Estate Data Analysis
 
-This repository contains my real estate data analysis project. The project focuses on analyzing various aspects of real estate pricing and revenue.
+This project is Airbnb listings. The project focuses on analyzing various aspects of real estate pricing and revenue.
 
 ## Visualizations
 
@@ -20,7 +20,7 @@ This line graph shows the revenue for the year 2016. The vertical axis represent
 
 ## Additional Metrics
 
-There's also a metric titled "Distinct Count of Listings," which seems to be related to the number of listings available over time or per region.
+There's also a metric titled "Distinct Count of Listings," which is related to the number of listings available over time or per region.
 
 ## Conclusion
 
