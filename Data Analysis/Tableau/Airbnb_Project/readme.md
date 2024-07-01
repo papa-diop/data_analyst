@@ -1,6 +1,6 @@
-# Real Estate Data Analysis
+# Airbnb Listing Data Analysis
 
-This project is about Airbnb listings. The project focuses on analyzing various aspects of real estate pricing and revenue.
+Welcome to my Airbnb listing data analysis project. This project, conducted using Tableau, focuses on analyzing various aspects of Airbnb listings.
 
 ## Visualizations
 
