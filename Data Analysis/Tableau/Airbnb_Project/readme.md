@@ -1,6 +1,6 @@
 # Real Estate Data Analysis
 
-This project is Airbnb listings. The project focuses on analyzing various aspects of real estate pricing and revenue.
+This project is about Airbnb listings. The project focuses on analyzing various aspects of real estate pricing and revenue.
 
 ## Visualizations
 
